@@ -1,4 +1,4 @@
-package ru.vsu.cs.maria_gabelko;
+package ru.vsu.cs;
 
 public class Point {
     private double x;

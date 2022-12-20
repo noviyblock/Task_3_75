@@ -1,4 +1,4 @@
-package ru.vsu.cs.maria_gabelko.shapes;
+package ru.vsu.cs.shapes;
 
 public class LineClass {
     private final double k;

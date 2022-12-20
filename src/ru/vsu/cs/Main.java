@@ -1,7 +1,7 @@
-package ru.vsu.cs.maria_gabelko;
+package ru.vsu.cs;
 
-import ru.vsu.cs.maria_gabelko.shapes.LineClass;
-import ru.vsu.cs.maria_gabelko.shapes.ParabolaDownClass;
+import ru.vsu.cs.shapes.LineClass;
+import ru.vsu.cs.shapes.ParabolaDownClass;
 
 import java.util.Scanner;
 
